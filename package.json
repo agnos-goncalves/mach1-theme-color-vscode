@@ -3,8 +3,8 @@
   "displayName": "Mach1 Theme",
   "publisher": "mach1-theme-color",
   "description": "Simple theme vscode",
-  "version": "1.0.0",
-  "icon": "icon.jpg",
+  "version": "1.0.1",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.71.0"
   },
