@@ -1,10 +1,15 @@
 {
-  "name": "mach1-theme",
-  "displayName": "Mach1 Theme Color",
+  "name": "mach1-theme-color",
+  "displayName": "Mach1 Theme",
+  "publisher": "mach1-theme-color",
   "description": "Simple theme vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/agnos-goncalves/mach1-theme-color-vscode.git"
   },
   "categories": [
     "Themes"

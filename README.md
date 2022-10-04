@@ -1,16 +1,16 @@
-# mach1 README
+# Mach1 - Theme
 
-## Working with Markdown
+Mach1 is a tech development school. And this is your first theme vscode.
+Good code everyone!!!
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Select Mach1 Theme
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Go to Menu File > Preferences > Color Theme > Mach1 Theme
 
 ## For more information
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Mach1 - School](https://sejaumprogramador.bemach1.com.br/cadastro?gclid=CjwKCAjws--ZBhAXEiwAv-RNL2bZsDdpwmGiGvz_U8s_cyKU2ihUOZArMt2hvTDsFzYHd6UDfEJNRhoC8mQQAvD_BwE)
+
+- [Development by Agnos Goncalves](https://br.linkedin.com/in/agnos-gon%C3%A7alves-4ab53a8b)
 
 **Enjoy!**
