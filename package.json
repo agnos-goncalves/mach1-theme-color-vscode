@@ -2,8 +2,8 @@
   "name": "mach1-theme-color",
   "displayName": "MACH1 Theme",
   "publisher": "mach1-theme-color",
-  "description": "Simple theme vscode",
-  "version": "1.0.2",
+  "description": "MACH1 is a tech development school. And this is your first theme vscode. Good code everyone!!!",
+  "version": "1.0.3",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.71.0"
